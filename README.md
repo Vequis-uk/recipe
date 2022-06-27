@@ -1,3 +1,5 @@
+Little recipe app where you can search ingredients and it shows recipes, including an image, calories and of course the ingredients for the dish.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
